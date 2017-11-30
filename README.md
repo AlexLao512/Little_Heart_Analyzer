@@ -2,7 +2,7 @@ Little Heart Analyzer
 
 Copyright (C) 2017 Alex Lao, Christina Riczu, Thomas Phan, Emilie Corcoran
 
-Notice: If you find this code useful please consider donating to, or thanking the team that originally developed this project. Do so by contacting lao.alex.512@gmail.com, donations or comments will be relayed to the original four team memebers. 
+Notice: If you find this code useful please consider donating to, or thanking the team that originally developed this project. Do so by contacting lao.alex.512@gmail.com, donations or comments will be relayed to the original four team members. 
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
